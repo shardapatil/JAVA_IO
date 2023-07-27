@@ -1,4 +1,3 @@
-//code by:Sharda Patil
 package com.iopackage.q1;
 
 import java.io.BufferedInputStream;
