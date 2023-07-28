@@ -7,7 +7,6 @@ public class CopFileMain {
 
 	public static void main(String[] args) {
 		
-		
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println("Enter the source file : ");
@@ -22,6 +21,5 @@ public class CopFileMain {
 		obj.CopyFileFromSrcToDest(source,dest);
 		d = new Date();
 		System.out.println("File copy ended at : " + d);
-		
 	}
 }
