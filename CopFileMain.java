@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class CopFileMain {
 
 	public static void main(String[] args) {
-		// Write a Program to Copy a File which has the syntax  from source to destination
+		
 		
 		Scanner sc = new Scanner(System.in);
 
